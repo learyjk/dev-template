@@ -1,8 +1,2 @@
-(() => {
-  // src/index.ts
-  var init = () => {
-    console.log("loaded");
-  };
-  document.addEventListener("DOMContentLoaded", init);
-})();
+(()=>{var e=()=>{console.log("loaded")};document.addEventListener("DOMContentLoaded",e);})();
 //# sourceMappingURL=index.js.map
